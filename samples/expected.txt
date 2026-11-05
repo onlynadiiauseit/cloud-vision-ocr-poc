@@ -1,0 +1,4 @@
+CLOUD OCR DEMO
+Google Cloud Vision API
+Invoice No. 2026
+Total: 125.50 UAH
